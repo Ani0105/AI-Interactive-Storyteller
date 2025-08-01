@@ -42,20 +42,3 @@ npm run dev
 
 Frontend will be live at: `http://localhost:5173`
 
-> Make sure API is running at port 8000. If needed, adjust `client/src/util.js` to point to the right backend URL.
-
----
-
-## 📁 Project Structure
-
-```
-AI-Interactive-Storyteller/
-│
-├── api/        # FastAPI backend
-├── client/     # React frontend
-└── README.md   # Project documentation
-```
-
-## 📜 License
-
-MIT
